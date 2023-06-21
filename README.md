@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+![Header](./your-header-image-name.png)
+
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="darkmode-banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="lightmode-banner.png">
+ <img alt="YOUR-ALT-TEXT" src="lightmode-banner.png">
 </picture>
 
 <!--
