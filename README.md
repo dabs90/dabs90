@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SafeTravels](https://github.com/dabs90/safe_travels_dabin)
 
-- 🌱 I’m currently learning **Youtube courses**
+- 🌱 I’m currently learning **YouTube courses**
 
 - 💬 Ask me about **React, HTML, CSS, SCSS, UI, Figma**
 
